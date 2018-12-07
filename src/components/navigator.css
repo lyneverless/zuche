@@ -1,0 +1,45 @@
+.mask {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+}
+
+.mask-show {
+    background-color: rgba(0, 0, 0, 0.6);
+}
+
+.mask-hide {
+    z-index: -1; /*avoid click me when left-nav is hiding*/
+}
+
+#nav {
+    position: fixed;
+    width: 58%;
+    top: 0;
+    bottom: 0;
+    background-color: white;
+    transition: right 2s; /*todo*/
+    display: flex;
+    flex-direction: column;
+}
+
+.mask-hide > #nav {
+    right: 100%;
+}
+
+.bio, .invite {
+    flex: 0 0 auto;
+    /*border: 1px solid red;*/
+}
+
+.lists {
+    flex: 1 1 auto;
+}
+
+.bio {
+    margin-top: 6rem;
+}
+
+.invite {
+    margin-bottom: 2rem;
+}

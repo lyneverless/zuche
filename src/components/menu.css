@@ -1,0 +1,7 @@
+.lists {
+    margin-top: 2rem;
+}
+
+.lists > li {
+    margin: 28px 0;
+}

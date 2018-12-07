@@ -1,0 +1,32 @@
+.bio{
+    display: flex;
+}
+
+.avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    margin-left: 2rem;
+    margin-right: 1rem;
+    background-image: url("https://user-gold-cdn.xitu.io/2018/5/8/1633e8b58c2b1740?imageView2/1/w/180/h/180/q/85/format/webp/interlace/1");
+    background-size: cover;
+}
+
+.avatar:hover {
+    animation: rotate 666ms linear 1s infinite;
+}
+
+.bio-right {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}
