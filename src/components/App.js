@@ -1,6 +1,11 @@
 import React, {Component} from 'react';
+import {BrowserRouter,Route} from 'react-router-dom';
 import Navigator from './navigator';
 import TopNav from './top-nav';
+import Domestic from './Domestic';
+import Sharing from './Sharing';
+import International from './International';
+import Special from './Special';
 import './App.css';
 
 
@@ -11,45 +16,58 @@ class App extends Component {
             showLeftNav: false,
             topNav: '国内租'//['国内租', '分时共享', '全球租', '专车']
         };
-        this.handleUserClicked = this.handleUserClicked.bind(this);
-        this.handleMaskClicked = this.handleMaskClicked.bind(this);
-        this.handleTopNavClicked = this.handleTopNavClicked.bind(this);
     }
 
-    handleUserClicked() {
-        this.setState({
-            showLeftNav: true
-        })
-    }
-
-    handleMaskClicked() {
-        this.setState({
-            showLeftNav: false
-        })
-    }
-
-    handleTopNavClicked(e) {
-        const item = e.target.innerText;
-        if (item) {
-            this.setState({
-                topNav: item
-            })
+    handleClicked(name, event) {
+        switch (name) {
+            case 'user':
+                this.setState({
+                    showLeftNav: true
+                });
+                break;
+            case 'mask':
+                this.setState({
+                    showLeftNav: false
+                });
+                break;
+            case 'top-nav':
+                const item = event.target.innerText;
+                if (item) {
+                    this.setState({
+                        topNav: item
+                    })
+                }
+                break;
+            default:
+                console.warn(`${name} unmatched-61`);
+                return;
         }
     }
 
     render() {
         return (
             <div className="App">
-                <Navigator show={this.state.showLeftNav} maskClicked={this.handleMaskClicked}/>
-                <TopNav
-                    active={this.state.topNav}
-                    userClicked={this.handleUserClicked}
-                    navClicked={this.handleTopNavClicked}
-                />
-                <div className="main-content">此处应显示路由为 {this.state.topNav} 时对应的内容</div>
+                <Navigator show={this.state.showLeftNav} maskClicked={this.handleClicked.bind(this, 'mask')}/>
+                <BrowserRouter>
+                    <div>
+                        <TopNav
+                            active={this.state.topNav}
+                            userClicked={this.handleClicked.bind(this, 'user')}
+                            navClicked={this.handleClicked.bind(this, 'top-nav')}
+                        />
+                        <div className="main-content">
+                            <Route path="" exact component={Domestic}></Route>
+                            <Route path="/国内租" component={Domestic}></Route>
+                            <Route path="/分时共享" component={Sharing}></Route>
+                            <Route path="/全球租" component={International}></Route>
+                            <Route path="/专车" component={Special}></Route>
+                        </div>
+                    </div>
+                </BrowserRouter>
             </div>
         );
     }
 }
+
 
 export default App;
