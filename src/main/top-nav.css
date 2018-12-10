@@ -31,6 +31,10 @@
     font-size: .9rem;
 }
 
-.list > .active {
+.list > .item > a {
+    text-decoration: none;
+}
+
+.list > .active > a {
     color: #f6b648;
 }

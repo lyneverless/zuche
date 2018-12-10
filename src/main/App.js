@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import {BrowserRouter,Route} from 'react-router-dom';
-import Navigator from './navigator';
+import Navigator from '../left-nav/navigator';
 import TopNav from './top-nav';
-import Domestic from './Domestic';
+import Domestic from '../domestic/Domestic';
 import Sharing from './Sharing';
 import International from './International';
 import Special from './Special';

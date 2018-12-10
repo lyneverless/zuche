@@ -1,6 +1,6 @@
 html, body {
     width: 100%;
-    height: 100%;
+    /*height: 100%;*/
     margin: 0;
     padding: 0;
 }
@@ -16,7 +16,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 body {
-    background-image: url(../zuche-main.png);
+    background-image: url(../assets/zuche-main.png);
     background-size: 100% 100%;
     background-repeat: no-repeat;
 }
