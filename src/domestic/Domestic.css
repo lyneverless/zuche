@@ -1,0 +1,18 @@
+.navs {
+    display: flex;
+}
+
+.navs > li {
+    flex: 1 1 auto;
+}
+
+.recommend {
+    height: 7rem;
+    display: flex;
+}
+
+.recommend > div {
+    background-image: url("../assets/cruze.jpg");
+    background-size: cover;
+    flex: 1 1 auto;
+}

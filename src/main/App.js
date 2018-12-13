@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {BrowserRouter,Route} from 'react-router-dom';
+import {BrowserRouter, Route} from 'react-router-dom';
 import Navigator from '../left-nav/navigator';
 import TopNav from './top-nav';
 import Domestic from '../domestic/Domestic';
@@ -51,6 +51,7 @@ class App extends Component {
                 <BrowserRouter>
                     <div>
                         <TopNav
+                            items={['国内租', '分时共享', '全球租', '专车']}
                             active={this.state.topNav}
                             userClicked={this.handleClicked.bind(this, 'user')}
                             navClicked={this.handleClicked.bind(this, 'top-nav')}

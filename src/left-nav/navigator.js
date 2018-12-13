@@ -8,19 +8,17 @@ import './navigator.css';
 class Navigator extends Component {
     constructor(props) {
         super(props);
-        this.handleClick = this.handleClick.bind(this);////////////////what the fuck
-    }
-
-    handleClick(e) {
-        if (Array.prototype.includes.call(e.target.classList, 'mask')) {
-            this.props.maskClicked();
-        }
     }
 
     render() {
-        const className = `mask ${this.props.show ? 'mask-show' : 'mask-hide'}`;
         return (
-            <div className={className} onClick={this.handleClick}>
+            <div
+                className={`mask ${this.props.show ? 'mask-show' : 'mask-hide'}`}
+                onClick={e => {
+                    if (Array.prototype.includes.call(e.target.classList, 'mask')) {
+                        this.props.maskClicked();
+                    }
+                }}>
                 <div id="nav">
                     <Bio/>
                     <Menu/>

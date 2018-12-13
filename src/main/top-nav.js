@@ -4,19 +4,6 @@ import './top-nav.css';
 
 
 class TopNav extends Component {
-    constructor(props) {
-        super(props);
-        this.renderItem = this.renderItem.bind(this);
-    }
-
-    renderItem(name) {
-        const className = `item${this.props.active === name ? ' active' : ''}`;
-        return (
-            <li className={className} key={name}><Link to={'/' + name}>{name}</Link></li>
-        )
-    }
-
-
     render() {
         return (
             <div className="top-nav">
@@ -26,10 +13,15 @@ class TopNav extends Component {
                 </div>
                 <nav>
                     <ul className="list" onClick={this.props.navClicked}>
-                        {this.renderItem('国内租')}
-                        {this.renderItem('分时共享')}
-                        {this.renderItem('全球租')}
-                        {this.renderItem('专车')}
+                        {this.props.items.map(item => {
+                            let className = 'item';
+                            if (this.props.active === item) {
+                                className += ' active';
+                            }
+                            return (
+                                <li className={className} key={item}><Link to={'/' + item}>{item}</Link></li>
+                            )
+                        })}
                     </ul>
                 </nav>
             </div>

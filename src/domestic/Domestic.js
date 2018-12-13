@@ -1,20 +1,26 @@
 import React, {Component} from 'react';
+import Carousel from './Carousel';
 import Form from './form';
 import './Domestic.css';
+import chunjie from '../assets/750-410-chunjie-20181210-WAP.jpg';
+import mian2 from '../assets/750-410-mian2-20180824-WAP.jpg';
+import YX from '../assets/750-410-YX-20180821-WAP.jpg';
+import zu3mian1 from '../assets/750-410-zu3mian1-181019-wap.jpg';
+import guojizuche from '../assets/750x410-guojizuche-180201-app-wap.jpg';
+import shouri0 from '../assets/750-410-shouri0-181108-wap.jpg';
+import xifen from '../assets/750-410-xifen-20180629-WAP.jpg';
+import YZTH from '../assets/750x410-YZTH-20181116-wap.jpg';
+
 
 class Domestic extends Component {
     render() {
-        //url("https://fimg.zuchecdn.com/upload/wap/HomePage/HeadFigure/2018/750x410-YZTH-20181116-wap.jpg")
-        //url("https://fimg.zuchecdn.com/upload/wap/HomePage/HeadFigure/2018/750-410-shouri0-181108-wap.jpg")
-        //url("https://fimg.zuchecdn.com/upload/wap/HomePage/HeadFigure/2018/750-410-zu3mian1-181019-wap.jpg")
-        //url("https://fimg.zuchecdn.com/upload/wap/HomePage/HeadFigure/2018/750-410-YX-20180821-wap.jpg")
-        //url("https://fimg.zuchecdn.com/upload/wap/HomePage/HeadFigure/2018/750-410-mian2-20180824-wap.jpg")
-        //url("https://fimg.zuchecdn.com/upload/wap/HomePage/HeadFigure/2018/750x410-guojizuche-180201-wap.jpg")
-        //url("https://fimg.zuchecdn.com/upload/app/HomePage/HeadFigure/2018/750-410-xifen-20180629-WAP.jpg")
-        //https://fimg.zuchecdn.com/upload/web/modepic/87.jpg
+        const urls = [chunjie, mian2, shouri0, xifen, YX, zu3mian1, guojizuche, YZTH];
         return (
             <div>
-                <div className="carousel"></div>
+                <Carousel interval={4000}
+                          urls={urls}
+                          styleP={{height: '7rem', backgroundSize: '100% 100%'}}>
+                </Carousel>
                 <Form style={{height: '14rem'}}>
                 </Form>
                 <nav>
