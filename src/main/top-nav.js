@@ -1,5 +1,7 @@
 import React, {Component} from 'react';
 import {Link} from 'react-router-dom';
+import {connect} from 'react-redux';
+import createAction from '../redux/actions';
 import './top-nav.css';
 
 
@@ -29,4 +31,24 @@ class TopNav extends Component {
     }
 }
 
-export default TopNav;
+const mapStateToProps = state => {
+    return {
+        items: state.topNavReducer.itemNames,
+        active: state.topNavReducer.active
+    }
+};
+
+const mapDispatchToProps = dispatch => {
+    return {
+        userClicked: () => dispatch(createAction('SHOW_LEFTNAV')),
+        navClicked: e => {
+            const item = e.target.innerText;
+            if (item) {
+                dispatch(createAction('ROUTE_TOPNAV', item))
+            }
+        }
+    }
+};
+
+
+export default connect(mapStateToProps, mapDispatchToProps)(TopNav);

@@ -1,15 +1,13 @@
 import React, {Component} from 'react';
+import {connect} from 'react-redux';
 import Bio from './bio';
 import Menu from './menu';
 import Invite from './invite';
 import './navigator.css';
+import createAction from '../redux/actions';
 
 
 class Navigator extends Component {
-    constructor(props) {
-        super(props);
-    }
-
     render() {
         return (
             <div
@@ -29,4 +27,17 @@ class Navigator extends Component {
     }
 }
 
-export default Navigator;
+const mapStateToProps = state => {
+    return {
+        show: state.leftNavReducer.show
+    }
+};
+
+const mapDispatchToProps = dispatch => {
+    return {
+        maskClicked: () => dispatch(createAction('HIDE_LEFTNAV'))
+    }
+};
+
+
+export default connect(mapStateToProps, mapDispatchToProps)(Navigator);
