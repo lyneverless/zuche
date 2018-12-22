@@ -13,6 +13,18 @@ let state = {
             interval: 3000,
             current: 0
         },
+        choose: {
+            from: {
+                city: '广州',
+                location: '市桥店',
+                way: '上门'
+            },
+            to: {
+                city: '广州',
+                location: '市桥店',
+                way: '上门'
+            }
+        },
         links: ['超值套餐', '顺风车', '长租服务', '门店查询', '导航', '帮助中心']
     }
 };

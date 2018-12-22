@@ -3,9 +3,9 @@ import {BrowserRouter, Route} from 'react-router-dom';
 import Navigator from '../left-nav/navigator';
 import TopNav from './top-nav';
 import Domestic from '../domestic/Domestic';
-import Sharing from './Sharing';
-import International from './International';
-import Special from './Special';
+import Sharing from '../sharing/Sharing';
+import International from '../international/International';
+import Special from '../special/Special';
 import './App.css';
 
 

@@ -44,6 +44,18 @@ const domesticReducer = (state = {
         urls: [chunjie, mian2, shouri0, xifen, YX, zu3mian1, guojizuche, YZTH],
         interval: 3000
     },
+    choose: {
+        from: {
+            city: '广州',
+            location: '市桥店',
+            way: '上门'
+        },
+        to: {
+            city: '广州',
+            location: '市桥店',
+            way: '上门'
+        }
+    },
     links: ['超值套餐', '顺风车', '长租服务', '门店查询', '导航', '帮助中心']
 }, action) => {
     switch (action.type) {
@@ -54,7 +66,8 @@ const domesticReducer = (state = {
                 carousel: {
                     urls: state.carousel.urls.concat([last]),
                     interval: 3000
-                }
+                },
+                choose: Object.assign({}, state.choose)
             };
         default:
             return state;

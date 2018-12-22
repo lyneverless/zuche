@@ -1,0 +1,61 @@
+.inform {
+    display: flex;
+    align-items: center;
+    height: 3.4rem;
+    line-height: 3.4rem;
+    border-bottom: 1px solid gray;
+}
+
+.city, .location, .way {
+    flex: 0 0 auto;
+}
+
+.city {
+    margin-left: 2.7rem;
+    margin-right: .4rem;
+}
+
+.location {
+    flex: 1 1 auto;
+    margin-left: 1.5rem;
+    position: relative;
+}
+
+.way {
+    margin-right: 1.2rem;
+    width: 4.5rem;
+    height: 1.5rem;
+    line-height: 1.5rem;
+}
+
+
+.location::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    right: calc(100% + 1rem);
+    width: 0;
+    height: 0;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent;
+    border-top-color: gray;
+}
+
+.way {
+    display: flex;
+    justify-content: space-around;
+    background-color: #f1f1f1;
+    border-radius: 2rem;
+    font-size: .8rem;
+}
+
+.way > span {
+    padding: 0 .3rem;
+    border-radius: 1rem;
+}
+
+.way > .active {
+    background-color: #f6b340;
+    color: #fef4e3;
+}

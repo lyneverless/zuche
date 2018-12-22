@@ -12,7 +12,7 @@ class Domestic extends Component {
                 <Carousel
                     styleP={{height: '7rem', backgroundSize: '100% 100%'}}>
                 </Carousel>
-                <Form style={{height: '14rem'}}>
+                <Form>
                 </Form>
                 <nav>
                     <ul className="navs">

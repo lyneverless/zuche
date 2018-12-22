@@ -1,4 +1,7 @@
 import React, {Component} from 'react';
+import {connect} from 'react-redux';
+import InForm from './inForm';
+import './form.css';
 
 
 class Form extends Component {
@@ -8,12 +11,21 @@ class Form extends Component {
 
     render() {
         return (
-            <form style={this.props.style}>
+            <form className="form">
+                <InForm fuck={this.props.from}/>
+                <InForm fuck={this.props.to}/>
                 <button type="submit">立即选车</button>
             </form>
         )
     }
 }
 
+const mapStateToProps = state => {
+    return {
+        from: state.domesticReducer.choose.from,
+        to: state.domesticReducer.choose.to
+    }
+};
 
-export default Form;
+
+export default connect(mapStateToProps)(Form);
