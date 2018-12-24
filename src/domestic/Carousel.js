@@ -34,7 +34,7 @@ class Carousel extends Component {
     }
 }
 
-const mapStateToProps = state => Object.assign(state.domesticReducer.carousel);
+const mapStateToProps = state => Object.assign(state.domesticReducer._carouselReducer);
 
 const mapDispatchToProps = dispatch => {
     return {

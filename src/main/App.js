@@ -19,10 +19,10 @@ class App extends Component {
                         <TopNav/>
                         <div className="main-content">
                             <Route path="" exact component={Domestic}></Route>
-                            <Route path="/国内租" component={Domestic}></Route>
-                            <Route path="/分时共享" component={Sharing}></Route>
-                            <Route path="/全球租" component={International}></Route>
-                            <Route path="/专车" component={Special}></Route>
+                            <Route path="/domestic" component={Domestic}></Route>
+                            <Route path="/sharing" component={Sharing}></Route>
+                            <Route path="/international" component={International}></Route>
+                            <Route path="/special" component={Special}></Route>
                         </div>
                     </div>
                 </BrowserRouter>

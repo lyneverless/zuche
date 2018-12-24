@@ -35,6 +35,6 @@
     text-decoration: none;
 }
 
-.list > .active > a {
+.list .active {
     color: #f6b648;
 }

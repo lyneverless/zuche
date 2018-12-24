@@ -30,7 +30,7 @@ class Domestic extends Component {
 
 const mapStateToProps = state => {
     return {
-        links: state.domesticReducer.links
+        links: state.domesticReducer._linksReducer
     }
 };
 

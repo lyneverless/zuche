@@ -1,18 +1,8 @@
 import {combineReducers} from 'redux';
-import chunjie from '../assets/750-410-chunjie-20181210-WAP.jpg';
-import mian2 from '../assets/750-410-mian2-20180824-WAP.jpg';
-import YX from '../assets/750-410-YX-20180821-WAP.jpg';
-import zu3mian1 from '../assets/750-410-zu3mian1-181019-wap.jpg';
-import guojizuche from '../assets/750x410-guojizuche-180201-app-wap.jpg';
-import shouri0 from '../assets/750-410-shouri0-181108-wap.jpg';
-import xifen from '../assets/750-410-xifen-20180629-WAP.jpg';
-import YZTH from '../assets/750x410-YZTH-20181116-wap.jpg';
+import {defaultState} from './storeFormatte';
 
 
-const leftNavReducer = (state = {
-    itemNames: ['钱包', '行程', '发票', '违章', '设置', '客服'],
-    show: false
-}, action) => {
+const leftNavReducer = (state = defaultState.leftNav, action) => {
     switch (action.type) {
         case 'SHOW_LEFTNAV':
             return {
@@ -26,53 +16,40 @@ const leftNavReducer = (state = {
     }
 };
 
-const topNavReducer = (state = {
-    itemNames: ['国内租', '分时共享', '全球租', '专车'],
-    active: '国内租'
-}, action) => {
-    if (action.type === 'ROUTE_TOPNAV') {
+const topNavReducer = (state = defaultState.topNav, action) => {
+    return Object.assign({}, state);
+};
+
+
+const _carouselReducer = (state = defaultState.domestic.carousel, action) => {
+    if (action.type === 'SLIDE_CAROUSEL') {
+        const last = state.urls.shift();
         return {
-            itemNames: state.itemNames,
-            active: action.value
+            urls: state.urls.concat([last]),
+            interval: state.interval
         }
     }
     return state;
 };
 
-const domesticReducer = (state = {
-    carousel: {
-        urls: [chunjie, mian2, shouri0, xifen, YX, zu3mian1, guojizuche, YZTH],
-        interval: 3000
-    },
-    choose: {
-        from: {
-            city: '广州',
-            location: '市桥店',
-            way: '上门'
-        },
-        to: {
-            city: '广州',
-            location: '市桥店',
-            way: '上门'
+const _chooseReducer = (state = defaultState.domestic.choose, action) => {
+    if (action.type === 'RECHOOSE') {
+        if (action.key === 'way') {
+            const old = Object.assign({}, state[action.direction]);
+            const oldWay = old.way;
+            old.way = oldWay === '到店' ? '上门' : '到店';
+            state[action.direction] = old;//todo   this is fucking dirty
         }
-    },
-    links: ['超值套餐', '顺风车', '长租服务', '门店查询', '导航', '帮助中心']
-}, action) => {
-    switch (action.type) {
-        case 'SLIDE_CAROUSEL':
-            const last = state.carousel.urls.shift();
-            return {
-                links: state.links.slice(),
-                carousel: {
-                    urls: state.carousel.urls.concat([last]),
-                    interval: 3000
-                },
-                choose: Object.assign({}, state.choose)
-            };
-        default:
-            return state;
+        return state;
     }
+    return state;
 };
+
+const _linksReducer = (state = defaultState.domestic.links, action) => {
+    return state;
+};
+
+const domesticReducer = combineReducers({_carouselReducer, _chooseReducer, _linksReducer});
 
 
 export default combineReducers({leftNavReducer, topNavReducer, domesticReducer});
