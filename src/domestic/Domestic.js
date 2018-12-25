@@ -2,10 +2,15 @@ import React, {Component} from 'react';
 import {connect} from 'react-redux';
 import Carousel from './Carousel';
 import Form from './form';
+import createAction from '../redux/actions';
 import './Domestic.css';
 
 
 class Domestic extends Component {
+    componentWillMount() {
+        this.props.refreshTime();
+    }
+
     render() {
         return (
             <div>
@@ -34,5 +39,11 @@ const mapStateToProps = state => {
     }
 };
 
+const mapDispatchToProps = function (dispatch) {
+    return {
+        refreshTime: () => dispatch(createAction('REFRESH_TIME'))
+    }
+};
 
-export default connect(mapStateToProps)(Domestic);
+
+export default connect(mapStateToProps, mapDispatchToProps)(Domestic);

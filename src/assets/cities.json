@@ -1,0 +1,5307 @@
+[
+  {
+    "capitalcity": 0,
+    "code": 305,
+    "enName": "ankang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "AK"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "安康",
+    "newflag": false,
+    "opening_time": "2015-02-13",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 147,
+    "enName": "anqing",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "AQ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "安庆",
+    "newflag": false,
+    "opening_time": "2015-04-22",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 73,
+    "enName": "anshan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "AS"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "鞍山",
+    "newflag": false,
+    "opening_time": "2014-03-19",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 282,
+    "enName": "anshun",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "AS"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "安顺",
+    "newflag": false,
+    "opening_time": "2014-08-13",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 1,
+    "enName": "beijing",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "BJ"
+    ],
+    "isChainStore": 0,
+    "municipality": 1,
+    "name": "北京",
+    "newflag": false,
+    "opening_time": "2007-12-01",
+    "szm": "150 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 377,
+    "enName": "baoding",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "BD"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "保定",
+    "newflag": false,
+    "opening_time": "2018-05-09",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 298,
+    "enName": "baoji",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "BJ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "宝鸡",
+    "newflag": false,
+    "opening_time": "2014-06-20",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 55,
+    "enName": "baotou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "BT"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "包头",
+    "newflag": false,
+    "opening_time": "2014-07-25",
+    "szm": "6 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 57,
+    "enName": "bayannaoer",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "BYNE"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "巴彦淖尔",
+    "newflag": false,
+    "opening_time": "2017-07-07",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 245,
+    "enName": "beihai",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "BH"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "北海",
+    "newflag": false,
+    "opening_time": "2014-09-25",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 137,
+    "enName": "bengbu",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "BB"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "蚌埠",
+    "newflag": false,
+    "opening_time": "2015-04-09",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 380,
+    "enName": "benxi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "BQ",
+      "BX"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "本溪",
+    "newflag": false,
+    "opening_time": "2014-03-19",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 491,
+    "enName": "boao",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "BA"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "博鳌",
+    "newflag": false,
+    "opening_time": "2016-12-26",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 12,
+    "enName": "chongqing",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "CQ",
+      "ZQ"
+    ],
+    "isChainStore": 0,
+    "municipality": 1,
+    "name": "重庆",
+    "newflag": false,
+    "opening_time": "2007-12-04",
+    "szm": "207 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 23,
+    "enName": "changchun",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "CC",
+      "ZC"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "长春",
+    "newflag": false,
+    "opening_time": "2010-09-14",
+    "szm": "60 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 24,
+    "enName": "changsha",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "CS",
+      "ZS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "长沙",
+    "newflag": false,
+    "opening_time": "2008-06-17",
+    "szm": "90 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 11,
+    "enName": "chengdu",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "CD"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "成都",
+    "newflag": false,
+    "opening_time": "2007-12-01",
+    "szm": "158 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 464,
+    "enName": "cangnan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "CN"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "苍南",
+    "newflag": false,
+    "opening_time": "2015-01-28",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 41,
+    "enName": "cangzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "CZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "沧州",
+    "newflag": false,
+    "opening_time": "2014-07-30",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 420,
+    "enName": "changbaishan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "CBS",
+      "ZBS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "长白山",
+    "newflag": false,
+    "opening_time": "2016-05-25",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 217,
+    "enName": "changde",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "CD"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "常德",
+    "newflag": false,
+    "opening_time": "2015-07-04",
+    "szm": "6 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 482,
+    "enName": "changshu",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "CS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "常熟",
+    "newflag": false,
+    "opening_time": "2016-03-22",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 48,
+    "enName": "changzhi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "CZ",
+      "ZZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "长治",
+    "newflag": false,
+    "opening_time": "2014-06-20",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 119,
+    "enName": "changzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "CZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "常州",
+    "newflag": false,
+    "opening_time": "2010-09-25",
+    "szm": "34 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 334,
+    "enName": "chaohu",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "CH"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "巢湖",
+    "newflag": false,
+    "opening_time": "2017-10-27",
+    "szm": "12 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 235,
+    "enName": "chaozhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "CZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "潮州",
+    "newflag": false,
+    "opening_time": "2015-09-30",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 34,
+    "enName": "chengde",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "CD"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "承德",
+    "newflag": false,
+    "opening_time": "2016-05-18",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 224,
+    "enName": "chenzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "CZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "郴州",
+    "newflag": false,
+    "opening_time": "2014-06-25",
+    "szm": "8 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 64,
+    "enName": "chifeng",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "CF"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "赤峰",
+    "newflag": false,
+    "opening_time": "2014-12-12",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 148,
+    "enName": "chizhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "CZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "池州",
+    "newflag": false,
+    "opening_time": "2015-02-06",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 150,
+    "enName": "chuzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "CZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "滁州",
+    "newflag": false,
+    "opening_time": "2016-11-16",
+    "szm": "16 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 293,
+    "enName": "dali",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "DL"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "大理",
+    "newflag": false,
+    "opening_time": "2014-01-11",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 3,
+    "enName": "dalian",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "DL"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "大连",
+    "newflag": false,
+    "opening_time": "2008-03-31",
+    "szm": "43 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 76,
+    "enName": "dandong",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DD"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "丹东",
+    "newflag": false,
+    "opening_time": "2014-06-26",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 391,
+    "enName": "dangtu",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DT"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "当涂",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 506,
+    "enName": "danzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "儋州",
+    "newflag": false,
+    "opening_time": "2017-09-07",
+    "szm": "6 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 500,
+    "enName": "daocheng",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "稻城",
+    "newflag": false,
+    "opening_time": "2018-04-25",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 87,
+    "enName": "daqing",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DQ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "大庆",
+    "newflag": false,
+    "opening_time": "2015-05-22",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 45,
+    "enName": "datong",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DT"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "大同",
+    "newflag": false,
+    "opening_time": "2014-04-16",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 441,
+    "enName": "dengzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "邓州",
+    "newflag": false,
+    "opening_time": "2014-05-14",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 264,
+    "enName": "deyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "德阳",
+    "newflag": false,
+    "opening_time": "2014-07-16",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 373,
+    "enName": "dezhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "德州",
+    "newflag": false,
+    "opening_time": "2014-07-18",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 522,
+    "enName": "dingan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DA"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "定安",
+    "newflag": false,
+    "opening_time": "2018-08-30",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 415,
+    "enName": "donggang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DG"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "东港",
+    "newflag": false,
+    "opening_time": "2014-06-26",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 229,
+    "enName": "dongguan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "DW",
+      "DG"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "东莞",
+    "newflag": false,
+    "opening_time": "2009-12-28",
+    "szm": "141 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 170,
+    "enName": "dongying",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "东营",
+    "newflag": false,
+    "opening_time": "2018-07-11",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 370,
+    "enName": "dujiangyan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "DJY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "都江堰",
+    "newflag": false,
+    "opening_time": "2011-12-21",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 417,
+    "enName": "dunhuang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DH"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "敦煌",
+    "newflag": false,
+    "opening_time": "2015-11-26",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 413,
+    "enName": "duolun",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "多伦",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 398,
+    "enName": "duyun",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "DY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "都匀",
+    "newflag": false,
+    "opening_time": "2015-07-01",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 59,
+    "enName": "eerduosi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "EEDS"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "鄂尔多斯",
+    "newflag": false,
+    "opening_time": "2014-04-25",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 212,
+    "enName": "enshi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ES"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "恩施",
+    "newflag": false,
+    "opening_time": "2014-11-12",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 206,
+    "enName": "ezhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "EZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "鄂州",
+    "newflag": false,
+    "opening_time": "2018-08-01",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 13,
+    "enName": "fuzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "FZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "福州",
+    "newflag": false,
+    "opening_time": "2008-02-01",
+    "szm": "97 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 508,
+    "enName": "fenghua",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "FH"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "奉化",
+    "newflag": false,
+    "opening_time": "2018-07-30",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 227,
+    "enName": "foshan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "FS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "佛山",
+    "newflag": false,
+    "opening_time": "2010-03-03",
+    "szm": "83 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 414,
+    "enName": "fuqing",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "FQ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "福清",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 67,
+    "enName": "fushun",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "FS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "抚顺",
+    "newflag": false,
+    "opening_time": "2011-09-02",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 402,
+    "enName": "fuyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "FY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "富阳",
+    "newflag": false,
+    "opening_time": "2014-03-28",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 142,
+    "enName": "fuyanganhui",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "FY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "阜阳",
+    "newflag": false,
+    "opening_time": "2014-04-04",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 164,
+    "enName": "fuzhoujiangxi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "FZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "抚州",
+    "newflag": false,
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 14,
+    "enName": "guangzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "GZ",
+      "AZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "广州",
+    "newflag": false,
+    "opening_time": "2007-12-01",
+    "szm": "166 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 339,
+    "enName": "guiyang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "GY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "贵阳",
+    "newflag": false,
+    "opening_time": "2011-05-12",
+    "szm": "43 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 341,
+    "enName": "ganzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "GZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "赣州",
+    "newflag": false,
+    "opening_time": "2014-07-02",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 492,
+    "enName": "gongan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "GA"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "公安",
+    "newflag": false,
+    "opening_time": "2017-01-12",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 259,
+    "enName": "guangyuan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "GY",
+      "AY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "广元",
+    "newflag": false,
+    "opening_time": "2016-08-08",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 248,
+    "enName": "guigang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "GG"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "贵港",
+    "newflag": false,
+    "opening_time": "2015-06-17",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 247,
+    "enName": "guilin",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "GL"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "桂林",
+    "newflag": false,
+    "opening_time": "2010-09-25",
+    "szm": "17 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 328,
+    "enName": "guyuan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "GY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "固原",
+    "newflag": false,
+    "opening_time": "2017-06-27",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 25,
+    "enName": "haerbin",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "HEB",
+      "KEB"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "哈尔滨",
+    "newflag": false,
+    "opening_time": "2008-06-21",
+    "szm": "38 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 16,
+    "enName": "haikou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HK"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "海口",
+    "newflag": false,
+    "opening_time": "2007-12-01",
+    "szm": "50 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 8,
+    "enName": "hangzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "HZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "杭州",
+    "newflag": false,
+    "opening_time": "2007-12-01",
+    "szm": "60 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 26,
+    "enName": "hefei",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "GF",
+      "HF"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "合肥",
+    "newflag": false,
+    "opening_time": "2008-05-30",
+    "szm": "94 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 54,
+    "enName": "huhehaote",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "HHHT"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "呼和浩特",
+    "newflag": false,
+    "opening_time": "2011-10-14",
+    "szm": "39 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 375,
+    "enName": "haining",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HN"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "海宁",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 35,
+    "enName": "handan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HD"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "邯郸",
+    "newflag": false,
+    "opening_time": "2014-05-21",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 411,
+    "enName": "hanshan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HS"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "含山",
+    "newflag": false,
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 304,
+    "enName": "hanzhong",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "汉中",
+    "newflag": false,
+    "opening_time": "2014-05-09",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 467,
+    "enName": "hejin",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HJ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "河津",
+    "newflag": false,
+    "opening_time": "2015-02-11",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 221,
+    "enName": "hengyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "衡阳",
+    "newflag": false,
+    "opening_time": "2014-06-25",
+    "szm": "10 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 233,
+    "enName": "heyuan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "河源",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 250,
+    "enName": "hezhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "贺州",
+    "newflag": false,
+    "opening_time": "2017-07-10",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 447,
+    "enName": "houma",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HM"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "侯马",
+    "newflag": false,
+    "opening_time": "2014-07-09",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 124,
+    "enName": "huaian",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HA"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "淮安",
+    "newflag": false,
+    "opening_time": "2014-05-30",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 225,
+    "enName": "huaihua",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HH"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "怀化",
+    "newflag": false,
+    "opening_time": "2014-03-28",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 140,
+    "enName": "huainan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HN"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "淮南",
+    "newflag": false,
+    "opening_time": "2015-12-25",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 205,
+    "enName": "huanggang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HG"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "黄冈",
+    "newflag": false,
+    "opening_time": "2017-06-26",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 416,
+    "enName": "huangshan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "HS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "黄山",
+    "newflag": false,
+    "opening_time": "2014-04-14",
+    "szm": "8 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 207,
+    "enName": "huangshi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HD",
+      "HS"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "黄石",
+    "newflag": false,
+    "opening_time": "2016-04-20",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 231,
+    "enName": "huizhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "HZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "惠州",
+    "newflag": false,
+    "opening_time": "2011-08-29",
+    "szm": "94 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 394,
+    "enName": "huludao",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HLD"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "葫芦岛",
+    "newflag": false,
+    "opening_time": "2014-06-26",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 61,
+    "enName": "hulunbeier",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HLBE"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "呼伦贝尔",
+    "newflag": false,
+    "opening_time": "2014-06-06",
+    "szm": "10 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 495,
+    "enName": "huolinguole",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HLGL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "霍林郭勒",
+    "newflag": false,
+    "opening_time": "2017-05-22",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 130,
+    "enName": "huzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "HZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "湖州",
+    "newflag": false,
+    "opening_time": "2018-08-27",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 5,
+    "enName": "jinan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "JN"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "济南",
+    "newflag": false,
+    "opening_time": "2008-02-01",
+    "szm": "57 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 95,
+    "enName": "jiamusi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JMS"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "佳木斯",
+    "newflag": false,
+    "opening_time": "2018-05-17",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 160,
+    "enName": "jian",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JA"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "吉安",
+    "newflag": false,
+    "opening_time": "2014-06-18",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 241,
+    "enName": "jiangmen",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JM"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "江门",
+    "newflag": false,
+    "opening_time": "2016-07-15",
+    "szm": "8 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 481,
+    "enName": "jiangyin",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "JY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "江阴",
+    "newflag": false,
+    "opening_time": "2016-03-09",
+    "szm": "9 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 478,
+    "enName": "jianli",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "监利",
+    "newflag": false,
+    "opening_time": "2016-01-29",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 496,
+    "enName": "jianyang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "JY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "简阳",
+    "newflag": false,
+    "opening_time": "2017-05-25",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 131,
+    "enName": "jiaxing",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "JX"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "嘉兴",
+    "newflag": false,
+    "opening_time": "2011-06-15",
+    "szm": "24 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 418,
+    "enName": "jiayuguan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JYG"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "嘉峪关",
+    "newflag": false,
+    "opening_time": "2015-04-15",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 236,
+    "enName": "jieyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "揭阳",
+    "newflag": false,
+    "opening_time": "2014-06-18",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 360,
+    "enName": "jilin",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "吉林",
+    "newflag": false,
+    "opening_time": "2014-11-05",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 163,
+    "enName": "jingdezhen",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "YDZ",
+      "JDZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "景德镇",
+    "newflag": false,
+    "opening_time": "2015-06-24",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 502,
+    "enName": "jingjiang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "JJ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "靖江",
+    "newflag": false,
+    "opening_time": "2017-08-10",
+    "szm": "9 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 202,
+    "enName": "jingmen",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JM"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "荆门",
+    "newflag": false,
+    "opening_time": "2018-08-10",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 493,
+    "enName": "jingshan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JS"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "京山",
+    "newflag": false,
+    "opening_time": "2017-03-29",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 208,
+    "enName": "jingzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "荆州",
+    "newflag": false,
+    "opening_time": "2014-07-23",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 129,
+    "enName": "jinhua",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JH"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "金华",
+    "newflag": false,
+    "opening_time": "2016-11-15",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 180,
+    "enName": "jining",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JN"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "济宁",
+    "newflag": false,
+    "opening_time": "2017-11-30",
+    "szm": "14 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 46,
+    "enName": "jinzhong",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "晋中",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 445,
+    "enName": "jinzhongtaiguxian",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZQ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "左权",
+    "newflag": false,
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 378,
+    "enName": "jinzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "锦州",
+    "newflag": false,
+    "opening_time": "2014-06-26",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 161,
+    "enName": "jiujiang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "JJ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "九江",
+    "newflag": false,
+    "opening_time": "2014-04-15",
+    "szm": "15 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 275,
+    "enName": "jiuzhaigou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "JZG"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "九寨沟",
+    "newflag": false,
+    "opening_time": "2014-07-30",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 27,
+    "enName": "kunming",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "KM"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "昆明",
+    "newflag": false,
+    "opening_time": "2010-09-25",
+    "szm": "199 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 183,
+    "enName": "kaifeng",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "KF"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "开封",
+    "newflag": false,
+    "opening_time": "2016-08-31",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 466,
+    "enName": "kaili",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "KL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "凯里",
+    "newflag": false,
+    "opening_time": "2015-01-28",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 331,
+    "enName": "kelamayi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "KLMY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "克拉玛依",
+    "newflag": false,
+    "opening_time": "2015-09-18",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 376,
+    "enName": "kuerle",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "KEL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "库尔勒",
+    "newflag": false,
+    "opening_time": "2014-04-16",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 366,
+    "enName": "kunshan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "KS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "昆山",
+    "newflag": false,
+    "opening_time": "2010-09-15",
+    "szm": "47 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 306,
+    "enName": "lanzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "LZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "兰州",
+    "newflag": false,
+    "opening_time": "2011-09-15",
+    "szm": "30 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 1,
+    "code": 297,
+    "enName": "lasa",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "LS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "拉萨",
+    "newflag": false,
+    "opening_time": "2016-07-01",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 452,
+    "enName": "langfanganci",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LFAC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "廊坊安次",
+    "newflag": false,
+    "opening_time": "2014-11-21",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 268,
+    "enName": "leshan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LS",
+      "YS"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "乐山",
+    "newflag": false,
+    "opening_time": "2014-06-18",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 118,
+    "enName": "lianyungang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "LYG"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "连云港",
+    "newflag": false,
+    "opening_time": "2016-08-09",
+    "szm": "8 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 168,
+    "enName": "liaocheng",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "聊城",
+    "newflag": false,
+    "opening_time": "2014-04-30",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 383,
+    "enName": "liaoyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "辽阳",
+    "newflag": false,
+    "opening_time": "2014-06-26",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 292,
+    "enName": "lijiang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "LJ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "丽江",
+    "newflag": false,
+    "opening_time": "2014-05-04",
+    "szm": "10 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 51,
+    "enName": "linfen",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LF"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "临汾",
+    "newflag": false,
+    "opening_time": "2014-09-12",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 515,
+    "enName": "lingao",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LG"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "临高",
+    "newflag": false,
+    "opening_time": "2018-08-30",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 384,
+    "enName": "linghai",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LH"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "凌海",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 177,
+    "enName": "linyi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "临沂",
+    "newflag": false,
+    "opening_time": "2014-06-26",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 135,
+    "enName": "lishui",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "丽水",
+    "newflag": false,
+    "opening_time": "2017-08-03",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 246,
+    "enName": "liuzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "柳州",
+    "newflag": false,
+    "opening_time": "2016-01-29",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 472,
+    "enName": "lixian",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LX"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "澧县",
+    "newflag": false,
+    "opening_time": "2014-06-25",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 155,
+    "enName": "longyan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "龙岩",
+    "newflag": false,
+    "opening_time": "2014-10-24",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 219,
+    "enName": "loudi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LD"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "娄底",
+    "newflag": false,
+    "opening_time": "2017-07-21",
+    "szm": "8 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 146,
+    "enName": "luan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LA"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "六安",
+    "newflag": false,
+    "opening_time": "2014-06-03",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 186,
+    "enName": "luohe",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TH",
+      "LH"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "漯河",
+    "newflag": false,
+    "opening_time": "2014-07-09",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 182,
+    "enName": "luoyang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "LY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "洛阳",
+    "newflag": false,
+    "opening_time": "2011-06-15",
+    "szm": "11 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 273,
+    "enName": "luzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "泸州",
+    "newflag": false,
+    "opening_time": "2014-12-12",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 50,
+    "enName": "lvliang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "吕梁",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 389,
+    "enName": "maanshan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "MAS"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "马鞍山",
+    "newflag": false,
+    "opening_time": "2014-10-15",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 504,
+    "enName": "macheng",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "MC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "麻城",
+    "newflag": false,
+    "opening_time": "2017-08-11",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 405,
+    "enName": "manzhouli",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "MZL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "满洲里",
+    "newflag": false,
+    "opening_time": "2014-06-06",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 238,
+    "enName": "maoming",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "MM"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "茂名",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 267,
+    "enName": "meishan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "MS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "眉山",
+    "newflag": false,
+    "opening_time": "2016-07-02",
+    "szm": "12 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 234,
+    "enName": "meizhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "MZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "梅州",
+    "newflag": false,
+    "opening_time": "2014-06-18",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 392,
+    "enName": "mianyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "MY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "绵阳",
+    "newflag": false,
+    "opening_time": "2014-03-14",
+    "szm": "7 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 85,
+    "enName": "mudanjiang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "MDJ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "牡丹江",
+    "newflag": false,
+    "opening_time": "2014-09-10",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 28,
+    "enName": "nanchang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "NC"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "南昌",
+    "newflag": false,
+    "opening_time": "2008-05-26",
+    "szm": "70 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 7,
+    "enName": "nanjing",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "NJ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "南京",
+    "newflag": false,
+    "opening_time": "2007-12-01",
+    "szm": "122 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 242,
+    "enName": "nanning",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "NN"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "南宁",
+    "newflag": false,
+    "opening_time": "2010-04-20",
+    "szm": "88 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 397,
+    "enName": "nanchong",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "NC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "南充",
+    "newflag": false,
+    "opening_time": "2014-03-21",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 122,
+    "enName": "nantong",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "NT"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "南通",
+    "newflag": false,
+    "opening_time": "2011-11-23",
+    "szm": "32 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 187,
+    "enName": "nanyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "NY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "南阳",
+    "newflag": false,
+    "opening_time": "2014-04-30",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 29,
+    "enName": "ningbo",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "NP",
+      "NB"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "宁波",
+    "newflag": false,
+    "opening_time": "2008-08-01",
+    "szm": "55 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 166,
+    "enName": "pingxiang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "PX"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "萍乡",
+    "newflag": false,
+    "opening_time": "2017-11-23",
+    "szm": "6 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 488,
+    "enName": "puning",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "PN"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "普宁",
+    "newflag": false,
+    "opening_time": "2016-09-21",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 388,
+    "enName": "qianjiang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "QJ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "潜江",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 458,
+    "enName": "qichun",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "QC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "蕲春",
+    "newflag": false,
+    "opening_time": "2014-09-26",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 4,
+    "enName": "qingdao",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "QD"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "青岛",
+    "newflag": false,
+    "opening_time": "2008-04-02",
+    "szm": "80 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 230,
+    "enName": "qingyuan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "QY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "清远",
+    "newflag": false,
+    "opening_time": "2015-04-27",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 400,
+    "enName": "qinhuangdao",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "QHD"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "秦皇岛",
+    "newflag": false,
+    "opening_time": "2014-03-21",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 244,
+    "enName": "qinzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "QZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "钦州",
+    "newflag": false,
+    "opening_time": "2016-11-29",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 450,
+    "enName": "qionghai",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "QH"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "琼海",
+    "newflag": false,
+    "opening_time": "2014-08-27",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 86,
+    "enName": "qiqihaer",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "QQHE",
+      "QQKE",
+      "QJHE",
+      "QJKE",
+      "JQHE",
+      "JQKE",
+      "JJHE",
+      "JJKE"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "齐齐哈尔",
+    "newflag": false,
+    "opening_time": "2014-05-28",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 157,
+    "enName": "quanzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "QZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "泉州",
+    "newflag": false,
+    "opening_time": "2013-12-10",
+    "szm": "105 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 410,
+    "enName": "qufu",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "QF"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "曲阜",
+    "newflag": false,
+    "opening_time": "2014-12-17",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 286,
+    "enName": "qujing",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "QJ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "曲靖",
+    "newflag": false,
+    "opening_time": "2016-06-27",
+    "szm": "12 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 133,
+    "enName": "quzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "QZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "衢州",
+    "newflag": false,
+    "opening_time": "2014-03-28",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 381,
+    "enName": "rizhao",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "RZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "日照",
+    "newflag": false,
+    "opening_time": "2014-03-19",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 374,
+    "enName": "rongcheng",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "RC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "荣成",
+    "newflag": false,
+    "opening_time": "2016-03-04",
+    "szm": "7 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 6,
+    "enName": "shanghai",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SH"
+    ],
+    "isChainStore": 0,
+    "municipality": 1,
+    "name": "上海",
+    "newflag": false,
+    "opening_time": "2007-12-01",
+    "szm": "94 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 21,
+    "enName": "shenyang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "SY",
+      "CY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "沈阳",
+    "newflag": false,
+    "opening_time": "2008-04-01",
+    "szm": "79 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 33,
+    "enName": "shijiazhuang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "DGZ",
+      "DJZ",
+      "SGZ",
+      "SJZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "石家庄",
+    "newflag": false,
+    "opening_time": "2010-09-25",
+    "szm": "33 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 188,
+    "enName": "sanmenxia",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SMX"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "三门峡",
+    "newflag": false,
+    "opening_time": "2015-11-06",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 17,
+    "enName": "sanya",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "SY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "三亚",
+    "newflag": false,
+    "opening_time": "2007-12-01",
+    "szm": "33 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 190,
+    "enName": "shangqiu",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SQ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "商丘",
+    "newflag": false,
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 162,
+    "enName": "shangrao",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "SR"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "上饶",
+    "newflag": false,
+    "opening_time": "2016-01-18",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 237,
+    "enName": "shantou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ST"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "汕头",
+    "newflag": false,
+    "opening_time": "2015-08-12",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 336,
+    "enName": "shanwei",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SW",
+      "SY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "汕尾",
+    "newflag": false,
+    "opening_time": "2016-09-28",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 232,
+    "enName": "shaoguan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SG"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "韶关",
+    "newflag": false,
+    "opening_time": "2016-03-16",
+    "szm": "10 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 128,
+    "enName": "shaoxing",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "SX"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "绍兴",
+    "newflag": false,
+    "opening_time": "2015-07-06",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 226,
+    "enName": "shaoyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "邵阳",
+    "newflag": false,
+    "opening_time": "2014-09-17",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 15,
+    "enName": "shenzhen",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "SZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "深圳",
+    "newflag": false,
+    "opening_time": "2007-12-01",
+    "szm": "88 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 199,
+    "enName": "shiyan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "十堰",
+    "newflag": false,
+    "opening_time": "2015-11-25",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 47,
+    "enName": "shuozhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "朔州",
+    "newflag": false,
+    "opening_time": "2015-05-13",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 80,
+    "enName": "siping",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SP"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "四平",
+    "newflag": false,
+    "opening_time": "2018-02-12",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 79,
+    "enName": "songyuan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "松原",
+    "newflag": false,
+    "opening_time": "2015-02-11",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 261,
+    "enName": "suining",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SN"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "遂宁",
+    "newflag": false,
+    "opening_time": "2017-06-08",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 203,
+    "enName": "suizhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "随州",
+    "newflag": false,
+    "opening_time": "2016-09-21",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 123,
+    "enName": "suqian",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SQ",
+      "XQ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "宿迁",
+    "newflag": false,
+    "opening_time": "2014-07-23",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 19,
+    "enName": "suzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "SZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "苏州",
+    "newflag": false,
+    "opening_time": "2008-04-21",
+    "szm": "40 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 138,
+    "enName": "suzhouanhui",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SZ",
+      "XZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "宿州",
+    "newflag": false,
+    "opening_time": "2018-06-15",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 2,
+    "enName": "tianjin",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "TJ"
+    ],
+    "isChainStore": 0,
+    "municipality": 1,
+    "name": "天津",
+    "newflag": false,
+    "opening_time": "2007-12-01",
+    "szm": "70 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 30,
+    "enName": "taiyuan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "TY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "太原",
+    "newflag": false,
+    "opening_time": "2008-07-18",
+    "szm": "34 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 171,
+    "enName": "taian",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TA"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "泰安",
+    "newflag": false,
+    "opening_time": "2014-06-25",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 409,
+    "enName": "taicang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "太仓",
+    "newflag": false,
+    "opening_time": "2014-04-04",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 461,
+    "enName": "taigu",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TG",
+      "TY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "太谷",
+    "newflag": false,
+    "opening_time": "2014-06-11",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 134,
+    "enName": "taizhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "台州",
+    "newflag": false,
+    "opening_time": "2014-04-02",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 126,
+    "enName": "taizhoujiangsu",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "TZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "泰州",
+    "newflag": false,
+    "opening_time": "2015-04-08",
+    "szm": "14 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 40,
+    "enName": "tangshan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "TS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "唐山",
+    "newflag": false,
+    "opening_time": "2011-11-14",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 424,
+    "enName": "tengchong",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TC"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "腾冲",
+    "newflag": false,
+    "opening_time": "2014-04-16",
+    "szm": "6 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 310,
+    "enName": "tianshui",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "天水",
+    "newflag": false,
+    "opening_time": "2017-06-21",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 65,
+    "enName": "tongliao",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "通辽",
+    "newflag": false,
+    "opening_time": "2014-06-18",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 144,
+    "enName": "tongling",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "铜陵",
+    "newflag": false,
+    "opening_time": "2014-08-08",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 284,
+    "enName": "tongren",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TR"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "铜仁",
+    "newflag": false,
+    "opening_time": "2015-01-07",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 333,
+    "enName": "tulufan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TLF",
+      "TLP"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "吐鲁番",
+    "newflag": false,
+    "opening_time": "2018-03-08",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 20,
+    "enName": "wuhan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "WH"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "武汉",
+    "newflag": false,
+    "opening_time": "2008-04-01",
+    "szm": "91 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 329,
+    "enName": "wulumuqi",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "WLMQ",
+      "WLMJ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "乌鲁木齐",
+    "newflag": false,
+    "opening_time": "2011-12-30",
+    "szm": "24 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 476,
+    "enName": "wanning",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "WN",
+      "MN"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "万宁",
+    "newflag": false,
+    "opening_time": "2016-01-13",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 174,
+    "enName": "weifang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "WF"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "潍坊",
+    "newflag": false,
+    "opening_time": "2014-06-20",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 176,
+    "enName": "weihai",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "WH"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "威海",
+    "newflag": false,
+    "opening_time": "2014-04-09",
+    "szm": "10 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 505,
+    "enName": "wenchang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "WC"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "文昌",
+    "newflag": false,
+    "opening_time": "2017-09-07",
+    "szm": "10 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 127,
+    "enName": "wenzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "WZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "温州",
+    "newflag": false,
+    "opening_time": "2011-11-14",
+    "szm": "21 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 58,
+    "enName": "wuhai",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "WH"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "乌海",
+    "newflag": false,
+    "opening_time": "2014-05-30",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 136,
+    "enName": "wuhu",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "WH"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "芜湖",
+    "newflag": false,
+    "opening_time": "2014-03-26",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 56,
+    "enName": "wulanchabu",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "WLCB"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "乌兰察布",
+    "newflag": false,
+    "opening_time": "2015-07-01",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 435,
+    "enName": "wulanhaote",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "WLHT"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "乌兰浩特",
+    "newflag": false,
+    "opening_time": "2014-06-18",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 116,
+    "enName": "wuxi",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "WX",
+      "MX"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "无锡",
+    "newflag": false,
+    "opening_time": "2010-04-20",
+    "szm": "41 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 425,
+    "enName": "wuyishan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "WYS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "武夷山",
+    "newflag": false,
+    "opening_time": "2014-04-16",
+    "szm": "7 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 477,
+    "enName": "wuyuan",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "WY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "婺源",
+    "newflag": false,
+    "opening_time": "2015-11-05",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 498,
+    "enName": "wuzhong",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "WZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "吴忠",
+    "newflag": false,
+    "opening_time": "2017-01-04",
+    "szm": "12 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 22,
+    "enName": "xian",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "XA"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "西安",
+    "newflag": false,
+    "opening_time": "2010-06-08",
+    "szm": "81 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 319,
+    "enName": "xining",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "XN"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "西宁",
+    "newflag": false,
+    "opening_time": "2011-09-15",
+    "szm": "32 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 18,
+    "enName": "xiamen",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "SM",
+      "XM"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "厦门",
+    "newflag": false,
+    "opening_time": "2008-02-01",
+    "szm": "35 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 220,
+    "enName": "xiangtan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "XT"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "湘潭",
+    "newflag": false,
+    "opening_time": "2011-06-15",
+    "szm": "7 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 471,
+    "enName": "xiangyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "襄阳",
+    "newflag": false,
+    "opening_time": "2015-12-31",
+    "szm": "8 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 204,
+    "enName": "xianning",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XN"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "咸宁",
+    "newflag": false,
+    "opening_time": "2014-06-18",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 382,
+    "enName": "xiantao",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XT"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "仙桃",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 299,
+    "enName": "xianyang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "XY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "咸阳",
+    "newflag": false,
+    "opening_time": "2015-12-15",
+    "szm": "6 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 198,
+    "enName": "xiaogan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "XG"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "孝感",
+    "newflag": false,
+    "opening_time": "2017-07-13",
+    "szm": "10 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 423,
+    "enName": "xichang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "西昌",
+    "newflag": false,
+    "opening_time": "2014-12-12",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 484,
+    "enName": "xilinhaote",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XLHT"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "锡林浩特",
+    "newflag": false,
+    "opening_time": "2016-06-06",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 43,
+    "enName": "xingtai",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XT"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "邢台",
+    "newflag": false,
+    "opening_time": "2015-04-03",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 197,
+    "enName": "xinyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "SY",
+      "XY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "信阳",
+    "newflag": false,
+    "opening_time": "2014-06-11",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 158,
+    "enName": "xinyu",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XT",
+      "XY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "新余",
+    "newflag": false,
+    "opening_time": "2014-12-31",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 439,
+    "enName": "xinzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "忻州",
+    "newflag": false,
+    "opening_time": "2016-07-06",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 460,
+    "enName": "xipingxian",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XPX"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "西平县",
+    "newflag": false,
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 296,
+    "enName": "xishuangbanna",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "XSBN"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "西双版纳",
+    "newflag": false,
+    "opening_time": "2013-11-06",
+    "szm": "6 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 421,
+    "enName": "xixia",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XX"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "西峡",
+    "newflag": false,
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 185,
+    "enName": "xuchang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "XC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "许昌",
+    "newflag": false,
+    "opening_time": "2014-08-27",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 117,
+    "enName": "xuzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "XZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "徐州",
+    "newflag": false,
+    "opening_time": "2012-11-27",
+    "szm": "68 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 326,
+    "enName": "yinchuan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "YC"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "银川",
+    "newflag": false,
+    "opening_time": "2011-09-15",
+    "szm": "40 家门店",
+    "top": false,
+    "tour": true
+  },
+  {
+    "capitalcity": 0,
+    "code": 404,
+    "enName": "yakeshi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YKD",
+      "YKS"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "牙克石",
+    "newflag": false,
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 302,
+    "enName": "yanan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "YA"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "延安",
+    "newflag": false,
+    "opening_time": "2015-11-30",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 125,
+    "enName": "yancheng",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "盐城",
+    "newflag": false,
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 240,
+    "enName": "yangjiang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YJ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "阳江",
+    "newflag": false,
+    "opening_time": "2014-04-25",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 120,
+    "enName": "yangzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "YZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "扬州",
+    "newflag": false,
+    "opening_time": "2011-11-04",
+    "szm": "35 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 483,
+    "enName": "yanji",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "YJ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "延吉",
+    "newflag": false,
+    "opening_time": "2016-05-13",
+    "szm": "6 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 175,
+    "enName": "yantai",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "YT"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "烟台",
+    "newflag": false,
+    "opening_time": "2011-06-15",
+    "szm": "37 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 272,
+    "enName": "yibin",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YB"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "宜宾",
+    "newflag": false,
+    "opening_time": "2014-12-12",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 213,
+    "enName": "yichang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "宜昌",
+    "newflag": false,
+    "opening_time": "2018-05-28",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 385,
+    "enName": "yichun",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "伊春",
+    "newflag": false,
+    "opening_time": "2014-08-08",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 159,
+    "enName": "yichunjiangxi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "宜春",
+    "newflag": false,
+    "opening_time": "2017-01-13",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 346,
+    "enName": "yili",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YL"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "伊犁",
+    "newflag": false,
+    "opening_time": "2015-07-29",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 379,
+    "enName": "yingkou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YK"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "营口",
+    "newflag": false,
+    "opening_time": "2014-03-14",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 368,
+    "enName": "yiwu",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "YW"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "义乌",
+    "newflag": false,
+    "opening_time": "2011-11-14",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 470,
+    "enName": "yixing",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "YX"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "宜兴",
+    "newflag": false,
+    "opening_time": "2015-04-10",
+    "szm": "13 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 218,
+    "enName": "yiyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "益阳",
+    "newflag": false,
+    "opening_time": "2016-07-25",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 407,
+    "enName": "yueqing",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "LQ",
+      "YQ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "乐清",
+    "newflag": false,
+    "opening_time": "2014-04-02",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 214,
+    "enName": "yueyang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "岳阳",
+    "newflag": false,
+    "opening_time": "2016-05-27",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 301,
+    "enName": "yulin",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "榆林",
+    "newflag": false,
+    "opening_time": "2015-08-05",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 249,
+    "enName": "yulinguangxi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YL"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "玉林",
+    "newflag": false,
+    "opening_time": "2016-12-22",
+    "szm": "6 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 52,
+    "enName": "yuncheng",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "YC"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "运城",
+    "newflag": false,
+    "opening_time": "2015-02-06",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 499,
+    "enName": "yuyao",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "TY",
+      "YY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "余姚",
+    "newflag": false,
+    "opening_time": "2017-07-07",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 1,
+    "code": 31,
+    "enName": "zhengzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "ZZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "郑州",
+    "newflag": false,
+    "opening_time": "2008-05-28",
+    "szm": "72 家门店",
+    "top": true,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 181,
+    "enName": "zaozhuang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "ZZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "枣庄",
+    "newflag": false,
+    "opening_time": "2013-05-27",
+    "szm": "10 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 406,
+    "enName": "zhalantun",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZLT",
+      "ZLZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "扎兰屯",
+    "newflag": false,
+    "opening_time": "2017-04-24",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 494,
+    "enName": "zhangjiagang",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "ZGG",
+      "ZJG"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "张家港",
+    "newflag": false,
+    "opening_time": "2017-05-10",
+    "szm": "5 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 216,
+    "enName": "zhangjiajie",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZGJ",
+      "ZJJ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "张家界",
+    "newflag": false,
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 37,
+    "enName": "zhangjiakou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZGK",
+      "ZJK"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "张家口",
+    "newflag": false,
+    "opening_time": "2014-08-01",
+    "szm": "4 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 335,
+    "enName": "zhangye",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZY"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "张掖",
+    "newflag": false,
+    "opening_time": "2015-07-20",
+    "szm": "3 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 387,
+    "enName": "zhangzhou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZZ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "漳州",
+    "newflag": false,
+    "opening_time": "2014-03-14",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 431,
+    "enName": "zhangzhoulonghai",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZZLH"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "漳州龙海",
+    "newflag": false,
+    "opening_time": "2014-04-23",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 337,
+    "enName": "zhanjiang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZJ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "湛江",
+    "newflag": false,
+    "opening_time": "2014-06-04",
+    "szm": "40 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 338,
+    "enName": "zhaoqing",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZQ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "肇庆",
+    "newflag": false,
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 121,
+    "enName": "zhenjiang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZJ"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "镇江",
+    "newflag": false,
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 449,
+    "enName": "zhongmou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZM"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "中牟",
+    "newflag": false,
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 228,
+    "enName": "zhongshan",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "ZS"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "中山",
+    "newflag": false,
+    "opening_time": "2011-10-19",
+    "szm": "30 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 444,
+    "enName": "zhongwei",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZW"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "中卫",
+    "newflag": false,
+    "opening_time": "2014-06-04",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 473,
+    "enName": "zhongxiang",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZX"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "钟祥",
+    "newflag": false,
+    "opening_time": "2015-09-30",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 189,
+    "enName": "zhoukou",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZK"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "周口",
+    "newflag": false,
+    "opening_time": "2014-05-30",
+    "szm": "1 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 32,
+    "enName": "zhuhai",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "ZH"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "珠海",
+    "newflag": false,
+    "opening_time": "2008-06-15",
+    "szm": "53 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 196,
+    "enName": "zhumadian",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZMD"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "驻马店",
+    "newflag": false,
+    "opening_time": "2015-05-20",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 222,
+    "enName": "zhuzhou",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "ZZ"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "株洲",
+    "newflag": false,
+    "opening_time": "2013-12-25",
+    "szm": "10 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 173,
+    "enName": "zibo",
+    "flag": 1,
+    "home": true,
+    "humpPinyins": [
+      "ZB"
+    ],
+    "isChainStore": 0,
+    "municipality": 0,
+    "name": "淄博",
+    "newflag": false,
+    "opening_time": "2015-08-01",
+    "szm": "9 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 271,
+    "enName": "zigong",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZG"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "自贡",
+    "newflag": false,
+    "opening_time": "2015-04-03",
+    "szm": "2 家门店",
+    "top": false,
+    "tour": false
+  },
+  {
+    "capitalcity": 0,
+    "code": 283,
+    "enName": "zunyi",
+    "flag": 1,
+    "home": false,
+    "humpPinyins": [
+      "ZY"
+    ],
+    "isChainStore": 1,
+    "municipality": 0,
+    "name": "遵义",
+    "newflag": false,
+    "opening_time": "2014-09-10",
+    "szm": "",
+    "top": false,
+    "tour": false
+  },
+  {
+    "code": -1,
+    "enName": "输入中文/拼音或上下键选择",
+    "home": false,
+    "name": "-1",
+    "newflag": false,
+    "top": false,
+    "tour": false
+  }
+]

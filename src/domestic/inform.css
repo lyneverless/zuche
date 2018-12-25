@@ -1,7 +1,6 @@
 .inform {
     display: flex;
     align-items: center;
-    height: 3.4rem;
     line-height: 3.4rem;
     border-bottom: 1px solid gray;
 }
@@ -48,6 +47,7 @@
     background-color: #f1f1f1;
     border-radius: 2rem;
     font-size: .8rem;
+    color: #9a9aa4;
 }
 
 .way > span {

@@ -1,14 +1,44 @@
 .form {
-    height: 14rem;
+    height: 16rem;
     display: flex;
     flex-direction: column;
 }
 
+.form > .warning {
+    background-color: #fff9ef;
+    text-align: center;
+    font-size: .7rem;
+    color: #c78f36;
+}
+
+.form > .warning-hide {
+    display: none;
+}
+
+.form > .time {
+    flex: 1 1 auto;
+    margin-top: 1.2rem;
+    display: flex;
+    font-size: .9rem;
+}
+
+.time-from, .time-to {
+    flex: 0 0 auto;
+    margin: 0 1.3rem;
+    font-style: normal;
+}
+
+.time-duration {
+    flex: 1 1 auto;
+    text-align: center;
+    color: #f6b23e;
+}
+
 .form > button {
     border: 0;
-    margin: 0 1rem;
+    margin: 0 1.5rem 2rem;
     border-radius: .3rem;
-    padding: .6rem;
+    padding: .9rem;
     background-color: #f6b340;
     color: #fef4e3;
 }
