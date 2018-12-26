@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import {NavLink} from 'react-router-dom';
+import {NavLink, withRouter} from 'react-router-dom';
 import {connect} from 'react-redux';
 import createAction from '../redux/actions';
 import './top-nav.css';
@@ -14,7 +14,7 @@ class TopNav extends Component {
                     <h3 className="title">神州租车</h3>
                 </div>
                 <nav>
-                    <ul className="list" onClick={this.props.navClicked}>
+                    <ul className="list">
                         {this.props.items.map(item =>
                             <li className="item" key={item.en}>
                                 <NavLink to={'/' + item.en}>{item.cn}</NavLink>
@@ -35,15 +35,9 @@ const mapStateToProps = state => {
 
 const mapDispatchToProps = dispatch => {
     return {
-        userClicked: () => dispatch(createAction('SHOW_LEFTNAV')),
-        navClicked: e => {//to make sure rerender
-            const item = e.target.innerText;
-            if (item) {
-                dispatch(createAction('ROUTE_TOPNAV', item))
-            }
-        }
+        userClicked: () => dispatch(createAction('SHOW_LEFTNAV'))
     }
 };
 
 
-export default connect(mapStateToProps, mapDispatchToProps)(TopNav);
+export default withRouter(connect(mapStateToProps, mapDispatchToProps)(TopNav));

@@ -1,5 +1,5 @@
 export default function createAction(type, value) {
-    return typeof value !== 'object' ?
+    return Object.prototype.toString.call(value) !== '[object Object]' ?
         {
             type,
             value

@@ -4,7 +4,7 @@ const app = express();
 
 
 // app.use(express.static('build', {}));
-app.get('/api', function (req, res) {
+app.get('/api/cities', function (req, res) {
     console.log(888);
     res.send(cities);
 });

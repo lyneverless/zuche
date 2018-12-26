@@ -1,6 +1,5 @@
 import React, {Component} from 'react';
 import {connect} from 'react-redux';
-import axios from 'axios';
 import moment from 'moment';
 import createAction from '../redux/actions';
 import InForm from './inForm';
@@ -14,13 +13,6 @@ const FormatTime = ({time, className}) =>
     </em>;
 
 class Form extends Component {
-    componentWillMount() {
-        console.log('fetch cities now');
-        axios('/api').then(response => {
-            console.log(response);
-        })
-    }
-
     render() {
         const showWarning = this.props.from.way === '上门' || this.props.to.way === '上门';
         const [from, to] = [moment(this.props.from.time), moment(this.props.to.time)];

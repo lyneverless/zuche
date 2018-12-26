@@ -48,8 +48,13 @@ export const defaultState = {
                 location: '市桥店',
                 way: '到店',
                 time: moment(now).add(2, 'days').valueOf()
-            }
+            },
+            currentDirection: ''// [from|to]
         },
         links: ['超值套餐', '顺风车', '长租服务', '门店查询', '导航', '帮助中心']
+    },
+    selectCity: {
+        cities: [],
+        fetching: false
     }
 };

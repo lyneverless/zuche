@@ -1,0 +1,4 @@
+.cities > .item {
+    display: block;
+    padding: .5rem 1rem;
+}

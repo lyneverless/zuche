@@ -3,11 +3,11 @@ import {connect} from 'react-redux';
 import Bio from './bio';
 import Menu from './menu';
 import Invite from './invite';
-import './navigator.css';
+import './left-nav.css';
 import createAction from '../redux/actions';
 
 
-class Navigator extends Component {
+class LeftNav extends Component {
     render() {
         return (
             <div
@@ -40,4 +40,4 @@ const mapDispatchToProps = dispatch => {
 };
 
 
-export default connect(mapStateToProps, mapDispatchToProps)(Navigator);
+export default connect(mapStateToProps, mapDispatchToProps)(LeftNav);
