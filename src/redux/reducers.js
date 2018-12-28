@@ -41,28 +41,34 @@ const _carouselReducer = (state = defaultState.domestic.carousel, action) => {
 
 const _chooseReducer = (state = defaultState.domestic.choose, action) => {
     if (action.type === 'REFRESH_TIME') {
+        console.log('refresh time now');
         const fromTime = _reduceTime();
         const toTime = moment(fromTime).add(2, 'days').valueOf();
-        state.from = Object.assign(
+        return Object.assign(
             {},
-            state.from,
-            {time: fromTime}
-        );
-        state.to = Object.assign(
-            {},
-            state.to,
-            {time: toTime}
+            state,
+            {from_time: fromTime, to_time: toTime}
         );
     } else if (action.type === 'RECHOOSE') {
         if (action.key === 'way') {
-            const old = Object.assign({}, state[action.direction]);
-            const oldWay = old.way;
-            old.way = oldWay === '到店' ? '上门' : '到店';
-            state[action.direction] = old;//todo   this is fucking dirty
-        } else if (action.key === 'city' && action.name) {
-            const old = Object.assign({}, state[action.direction]);
-            old.city = action.name;
-            state[action.direction] = old;
+            const propName = action.direction + '_way';
+            const oldWay = state[propName];
+            return Object.assign(
+                {},
+                state,
+                {[propName]: oldWay === '上门' ? '到店' : '上门'}
+            );
+        } else if (action.key === 'city' && action.cityName) {
+            const propName = action.direction + '_city';
+            const locationProp = action.direction + '_location';
+            return Object.assign(
+                {},
+                state,
+                {
+                    [propName]: action.cityName,
+                    [locationProp]: state[propName] !== action.cityName ? undefined : state[locationProp]
+                }
+            );
         }
         return state;
     }

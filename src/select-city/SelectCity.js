@@ -46,7 +46,7 @@ const mapDispatchToProps = dispatch => {
                 dispatch(createAction('RECHOOSE', {
                     direction: sessionStorage.currentDirection || 'from',
                     key: 'city',
-                    name: text
+                    cityName: text
                 }))
             }
 

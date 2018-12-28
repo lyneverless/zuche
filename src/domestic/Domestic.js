@@ -7,11 +7,13 @@ import './Domestic.css';
 
 
 class Domestic extends Component {
-    componentWillMount() {
+    constructor(props) {
+        super(props);
         this.props.refreshTime();
     }
 
     render() {
+        console.log('16-domestic render now');
         return (
             <div>
                 <Carousel
