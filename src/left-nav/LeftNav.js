@@ -1,8 +1,8 @@
 import React, {Component} from 'react';
 import {connect} from 'react-redux';
+import {Link} from 'react-router-dom';
 import Bio from './bio';
 import Menu from './menu';
-import Invite from './invite';
 import './left-nav.css';
 import createAction from '../redux/actions';
 
@@ -12,15 +12,11 @@ class LeftNav extends Component {
         return (
             <div
                 className={`mask ${this.props.show ? 'mask-show' : 'mask-hide'}`}
-                onClick={e => {
-                    if (Array.prototype.includes.call(e.target.classList, 'mask')) {
-                        this.props.maskClicked();
-                    }
-                }}>
+                onClick={this.props.maskClicked}>
                 <div id="nav">
                     <Bio/>
                     <Menu/>
-                    <Invite/>
+                    <Link className="invite" to="/invite">邀请好友&emsp;得奖励</Link>
                 </div>
             </div>
         )
@@ -35,7 +31,11 @@ const mapStateToProps = state => {
 
 const mapDispatchToProps = dispatch => {
     return {
-        maskClicked: () => dispatch(createAction('HIDE_LEFTNAV'))
+        maskClicked: e => {
+            if (Array.prototype.includes.call(e.target.classList, 'mask')) {
+                dispatch(createAction('HIDE_LEFTNAV'))
+            }
+        }
     }
 };
 

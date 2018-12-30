@@ -4,7 +4,7 @@ import moment from 'moment';
 
 
 const FormatTime = props => {
-    console.log('7-render formattime now');
+    console.log('7-formattime render now');//todo why render twice? moment is async???
     console.log(props.time);
     return (
         <em className={'time-' + props.direction}>

@@ -7,7 +7,7 @@ import './inform.css';
 
 class InForm extends Component {
     render() {
-        console.log('10-render inform now');
+        console.log('10-inform render now');
         return (
             <div className="inform" onClick={() => {
                 sessionStorage.currentDirection = this.props.direction;

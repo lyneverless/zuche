@@ -22,10 +22,6 @@ const leftNavReducer = (state = defaultState.leftNav, action) => {
     }
 };
 
-const topNavReducer = (state = defaultState.topNav, action) => {
-    return Object.assign({}, state);
-};
-
 
 const _carouselReducer = (state = defaultState.domestic.carousel, action) => {
     if (action.type === 'SLIDE_CAROUSEL') {
@@ -41,9 +37,9 @@ const _carouselReducer = (state = defaultState.domestic.carousel, action) => {
 
 const _chooseReducer = (state = defaultState.domestic.choose, action) => {
     if (action.type === 'REFRESH_TIME') {
-        console.log('refresh time now');
         const fromTime = _reduceTime();
         const toTime = moment(fromTime).add(2, 'days').valueOf();
+        console.log('refresh time now');
         return Object.assign(
             {},
             state,
@@ -102,11 +98,11 @@ const selectCityReducer = (state = defaultState.selectCity, action) => {
                 fetching: false
             };
         case 'ONERROR':
-            return state;//todo
+            return state;
         default:
             return state;
     }
 };
 
 
-export default combineReducers({leftNavReducer, topNavReducer, domesticReducer, selectCityReducer});
+export default combineReducers({leftNavReducer, domesticReducer, selectCityReducer});

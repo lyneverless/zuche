@@ -6,6 +6,20 @@ import './top-nav.css';
 
 
 class TopNav extends Component {
+    static items = [{
+        cn: '国内租',
+        en: 'domestic'
+    }, {
+        cn: '分时共享',
+        en: 'sharing'
+    }, {
+        cn: '全球租',
+        en: 'international'
+    }, {
+        cn: '专车',
+        en: 'special'
+    }];
+
     render() {
         return (
             <header className="top-nav">
@@ -15,7 +29,7 @@ class TopNav extends Component {
                 </div>
                 <nav>
                     <ul className="list">
-                        {this.props.items.map(item =>
+                        {TopNav.items.map(item =>
                             <li className="item" key={item.en}>
                                 <NavLink to={'/' + item.en}>{item.cn}</NavLink>
                             </li>
@@ -27,12 +41,6 @@ class TopNav extends Component {
     }
 }
 
-const mapStateToProps = state => {
-    return {
-        items: state.topNavReducer.items
-    }
-};
-
 const mapDispatchToProps = dispatch => {
     return {
         userClicked: () => dispatch(createAction('SHOW_LEFTNAV'))
@@ -40,4 +48,4 @@ const mapDispatchToProps = dispatch => {
 };
 
 
-export default withRouter(connect(mapStateToProps, mapDispatchToProps)(TopNav));
+export default withRouter(connect(undefined, mapDispatchToProps)(TopNav));

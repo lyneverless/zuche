@@ -3,9 +3,11 @@ const cities = require('./src/assets/cities');
 const app = express();
 
 
-// app.use(express.static('build', {}));
+app.use(express.static('build', {
+    maxAge: '1y',
+    immutable: true
+}));
 app.get('/api/cities', function (req, res) {
-    console.log(888);
     res.send(cities);
 });
 

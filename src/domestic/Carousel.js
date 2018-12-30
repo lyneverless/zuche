@@ -29,12 +29,25 @@ class Carousel extends Component {
     }
 
     render() {
-        const url = `url("${this.props.urls[0]}")`;
-        return <div className="carousel" style={Object.assign({backgroundImage: url}, this.props.styleP)}></div>
+        return (
+            <div
+                className="carousel"
+                style={Object.assign({backgroundImage: `url("${this.props.imgSrc}")`}, this.props.styleP)}
+            >
+                <link rel="prefetch" href={this.props.preSrc} />
+            </div>
+        );
     }
 }
 
-const mapStateToProps = state => Object.assign(state.domesticReducer._carouselReducer);
+const mapStateToProps = state => {
+    const s = state.domesticReducer._carouselReducer;
+    return {
+        interval: s.interval,
+        imgSrc: s.urls[0],
+        preSrc: s.urls[1]
+    }
+};
 
 const mapDispatchToProps = dispatch => {
     return {
