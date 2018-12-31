@@ -2,35 +2,42 @@
     position: fixed;
     width: 100%;
     height: 100%;
+    transition: background-color 100ms linear;
+    z-index: -1;
+    background-color: transparent;
 }
 
-.mask-show {
+.mask-exit-done {
+    visibility: hidden;
+}
+
+.mask-enter, .mask-enter-done {
     background-color: rgba(0, 0, 0, 0.6);
+}
+
+.mask-enter, .mask-enter-done, .mask-exit {
     z-index: 1;
 }
 
-.mask-hide {
-    z-index: -1; /*avoid click me when left-nav is hiding*/
-}
 
 #nav {
     position: fixed;
     width: 58%;
+    right: 100%;
     top: 0;
     bottom: 0;
     background-color: white;
-    transition: right 2s; /*todo*/
+    transition: right 100ms ease-in-out;
     display: flex;
     flex-direction: column;
 }
 
-.mask-hide > #nav {
-    right: 100%;
+.mask-enter > #nav, .mask-enter-done > #nav {
+    right: 42%;
 }
 
 .bio, .invite {
     flex: 0 0 auto;
-    /*border: 1px solid red;*/
 }
 
 .lists {
